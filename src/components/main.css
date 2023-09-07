@@ -1,0 +1,109 @@
+.main-container {
+    width: 100%;
+    background-color: #292d36;
+    height: 700px;
+}
+
+.inner-container {
+    width: 100%;
+    align-items: center;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+}
+
+.number-btn {
+    background-color: transparent;
+    border: 1px solid yellow;
+    color: white;
+    padding: 10px 25px;
+    margin-left: 15px;
+}
+
+.reserve-btn {
+    background-color: yellow;
+    padding: 10px 35px;
+    color: black;
+    margin-right: 15px;
+}
+
+.inner-container img {
+    width: 20%;
+}
+
+.main-container hr {
+    border: 0.5px solid whitesmoke;
+    opacity: 0.5;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.nav-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul-container {
+    width: 60%;
+}
+
+.ul-container ul {
+    width: 70%;
+    display: flex;
+}
+
+.ul-container li {
+    color: white;
+    width: 15%;
+    list-style-type: none;
+}
+
+.icon-container {
+    width: 20%;
+    padding-top: 20px;
+}
+
+.icon-container i {
+    color: white;
+    margin-left: 5px;
+}
+
+.welcome-container {
+    width: 100%;
+    display: flex;
+}
+
+.welcome-container div {
+    width: 50%;
+    text-align: left;
+}
+
+.welcome-container h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.welcome-container p {
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.welcome-container button {
+    background-color: transparent;
+    padding: 10px 25px;
+    border: 1px solid yellow;
+    color: yellow;
+    margin-top: 25px;
+}
+
+.welcome-container div {
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+.welcome-container img {
+    width: 100%;
+    object-fit: cover;
+}

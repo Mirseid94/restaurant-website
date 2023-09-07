@@ -1,0 +1,145 @@
+.fifth-container {
+    width: 100%;
+    height: 820px;
+    background-color: #292d36;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 30px;
+}
+
+.our-container {
+    width: 60%;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.our-container button {
+    border-left: none;
+    color: white;
+    border-right: none;
+    border-top: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    background-color: transparent;
+}
+
+.item-wrapper p {
+    font-size: 16px !important;
+}
+
+.div-1 {
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.div-1 img {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 40%;
+    object-fit: contain;
+}
+
+.div-2 {
+    width: 30% !important;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.div-2 div {
+    width: 65%;
+}
+
+.div-2 img {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 40%;
+    object-fit: contain;
+}
+
+.div-3 {
+    width: 30% !important;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.div-3 div {
+    width: 65%;
+}
+
+.div-3 img {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 40%;
+    object-fit: contain;
+}
+
+.div-4 {
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.div-4 div {
+    width: 65%;
+}
+
+.div-4 img {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 40%;
+    object-fit: contain;
+}
+
+.div-5 {
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.div-5 div {
+    width: 65%;
+}
+
+.div-5 img {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 40%;
+    object-fit: contain;
+}
+
+.div-6 {
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.div-6 div {
+    width: 65%;
+}
+
+.div-6 img {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 40%;
+    object-fit: contain;
+}
+
+.dev-1 {
+    width: 100%;
+    display: flex;
+}
+
+.said-container {
+    width: 95%;
+    margin-top: 20px;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://media.istockphoto.com/id/1307190527/tr/foto%C4%9Fraf/bir-barda-arkada%C5%9F-grubuna-yemek-sunan-mutlu-garson.jpg?s=612x612&w=0&k=20&c=9E51v3Qwc_9efx_SVenuc6CHsG37kVxwS4VWNxtAwro=");
+}

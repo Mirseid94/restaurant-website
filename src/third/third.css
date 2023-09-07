@@ -1,0 +1,49 @@
+.third-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.third-container img {
+    width: 47%;
+}
+
+.third-inner {
+    width: 47%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.delicious-container {
+    width: 100%;
+}
+
+.div-12 {
+    width: 47% !important;
+    background-color: white !important;
+}
+
+.div-1 h3 {
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+.div-23 {
+    width: 47% !important;
+    background-color: white !important;
+}
+
+.div-2 h3 {
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+.delicious-container h3 {
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}

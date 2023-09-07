@@ -1,0 +1,48 @@
+.six-container {
+    width: 100%;
+    justify-items: center;
+    padding: 20px 20px;
+}
+
+.six-inner-container {
+    width: 100%;
+    justify-items: center;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.six-inner-container p {
+    width: 50%;
+    margin-left: 350px;
+}
+
+.six-inner-container button {
+    border-top: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    border-left: none;
+    border-right: none;
+    padding: 5px 30px;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+.six-inner2-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.six-inner2-container div {
+    width: 48%;
+}
+
+.six-inner2-container div img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.six-inner-container h1 {
+    font-size: 30px;
+    font-weight: normal;
+}

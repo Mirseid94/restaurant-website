@@ -1,0 +1,79 @@
+.eight-container {
+    width: 100%;
+    background-image: url("https://visitbath.co.uk/imageresizer/?image=%2Fdbimgs%2FGallery%20-%20The%20Scallop%20Shell%20Bath%20interior.jpg&action=FeaturedItemsGalleryProElite3x2");
+    position: relative;
+    height: 600px;
+    margin-top: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.eight-inner-container {
+    width: 50%;
+    text-align: center;
+    background-color: black;
+    padding: 50px 30px;
+    position: absolute;
+    top: 100px;
+    left: 25%;
+    align-content: center;
+    justify-content: center;
+}
+
+.eight-inner-container button {
+    border-top: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    margin-bottom: 20px;
+    border-left: none;
+    border-right: none;
+    padding: 8px 25px;
+    background-color: transparent;
+    color: white;
+}
+
+.eight-inner-container h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.eight-inner-container div {
+    width: 80%;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.eight-inner-container div input {
+    background-color: transparent;
+    color: white;
+    height: 40px;
+}
+
+.input-1 {
+    width: 48%;
+}
+
+.input-2 {
+    width: 48%;
+}
+
+.input-3 {
+    width: 31%;
+}
+
+.input-4 {
+    width: 31%;
+}
+
+.input-5 {
+    width: 31%;
+}
+
+.end-btn {
+    margin-top: 30px;
+    background-color: white !important;
+    color: black !important;
+}
